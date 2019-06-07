@@ -29,7 +29,9 @@ How to create RegEx for max length, and must have 2 digits. Forward lookup?
 #### None :(
 
 **Today's Progress**: 
+
 None.
+
 **Thoughts:** 
 
 Had time, but instead invested in other matters. Must be better at managing time.
